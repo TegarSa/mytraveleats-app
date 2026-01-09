@@ -47,11 +47,14 @@ mudah diakses, dan ramah bagi wisatawan.
 ---
 
 ## 📁 Struktur Project
+
+```text
 mytraveleats/
-├── frontend/ # Aplikasi Mobile (React Native)
-├── backend/ # REST API (Express.js)
+├── frontend/          # Aplikasi Mobile (React Native)
+├── backend/           # REST API (Express.js)
 ├── README.md
 └── .gitignore
+```
 
 📌 Catatan
 Project ini dikembangkan sebagai aplikasi mobile untuk mendukung wisata kuliner
@@ -70,5 +73,5 @@ npm start
 cd backend
 npm install
 npm run dev
-
+```
 
