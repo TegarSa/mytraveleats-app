@@ -1,4 +1,4 @@
-# 🍽️ MyTravelEats
+# MyTravelEats
 
 **MyTravelEats** adalah aplikasi mobile yang membantu wisatawan dan traveler menemukan
 restoran, kafe, serta makanan dan minuman lokal terbaik di suatu daerah.
@@ -7,23 +7,23 @@ mudah diakses, dan ramah bagi wisatawan.
 
 ---
 
-## 🎯 Tujuan Aplikasi
+## Tujuan Aplikasi
 - Membantu wisatawan menemukan kuliner lokal terbaik
 - Menyediakan informasi restoran dan kafe di daerah tujuan wisata
 - Mendukung pengalaman wisata kuliner yang lebih autentik
 
 ---
 
-## 🚀 Fitur Utama
-- 📍 Daftar restoran & kafe berdasarkan lokasi
-- 🍜 Rekomendasi makanan dan minuman lokal
-- 🔍 Pencarian dan filter tempat makan
-- 📸 Detail restoran (foto, deskripsi, kategori)
-- ⭐ Informasi pendukung untuk traveler
+## Fitur Utama
+- Daftar restoran & kafe berdasarkan lokasi
+- Rekomendasi makanan dan minuman lokal
+- Pencarian dan filter tempat makan
+- Detail restoran (foto, deskripsi, kategori)
+- Informasi pendukung untuk traveler
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ### Frontend
 - React Native (Expo)
 
@@ -34,7 +34,7 @@ mudah diakses, dan ramah bagi wisatawan.
 ### Database & Services
 - Firebase (Authentication / Firestore / Storage)
 
-## 📸 Preview Aplikasi
+## Preview Aplikasi
 
 | Home | Food | Drink |
 |------|------|-------|
@@ -46,7 +46,7 @@ mudah diakses, dan ramah bagi wisatawan.
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```text
 mytraveleats/
@@ -57,9 +57,9 @@ mytraveleats/
 ```
 ---
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
-### 1️⃣ Frontend (React Native) dan Backend (Express.js)
+### Frontend (React Native) dan Backend (Express.js)
 ```bash
 cd frontend
 npm install
@@ -70,6 +70,6 @@ npm install
 npm run dev
 ```
 
-📌 Catatan
+Catatan
 Project ini dikembangkan sebagai aplikasi mobile untuk mendukung wisata kuliner
 dan masih dapat dikembangkan lebih lanjut dengan fitur tambahan
