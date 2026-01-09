@@ -55,11 +55,6 @@ mytraveleats/
 ├── README.md
 └── .gitignore
 ```
-
-📌 Catatan
-Project ini dikembangkan sebagai aplikasi mobile untuk mendukung wisata kuliner
-dan masih dapat dikembangkan lebih lanjut dengan fitur tambahan
-
 ---
 
 ## ⚙️ Cara Menjalankan Project
@@ -75,3 +70,6 @@ npm install
 npm run dev
 ```
 
+📌 Catatan
+Project ini dikembangkan sebagai aplikasi mobile untuk mendukung wisata kuliner
+dan masih dapat dikembangkan lebih lanjut dengan fitur tambahan
